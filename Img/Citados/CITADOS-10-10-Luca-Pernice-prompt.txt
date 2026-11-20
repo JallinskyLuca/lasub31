@@ -1,0 +1,10 @@
+Herramienta utilizada: generación de imágenes integrada.
+
+Use case: ads-marketing.
+Asset type: finished Instagram feed football squad announcement, portrait 4:5 composition.
+Primary request: Create a polished Spanish-language "CITADOS" poster for amateur football club SUB 31.
+Input image 1 is a style and club identity reference. Faithfully preserve the SUB 31 crest design and the rival crest from this reference. Use the same dramatic black nighttime football stadium aesthetic, white typography with subtle worn texture, and restrained golden-yellow accents. Adapt the composition for a squad announcement.
+Composition: Clear oversized headline "CITADOS" at top, small SUB 31 identity and handwritten reference slogan above it if space permits. Center is the prominent player name "LUCA PERNICE", the sole supplied call-up, highly legible and elegantly balanced with generous negative space. Beneath show the two club crests and "VS", then the fixture details in a clean readable block. A smaller photoreal black SUB 31 jersey from the reference with white chevron and golden trim anchors the bottom against stadium fencing. Keep all important content within safe margins.
+Text (verbatim required): "SUB 31", "CITADOS", "LUCA PERNICE", "SUB 31 VS PARALYMPIACOS", "SÁBADO 10/10", "19:40 HS", "ESTADIO LA MADERERA", "SUPERLEAGUE · FECHA 2".
+Optional existing slogan only if it fits: "Juntos por el mismo sueño".
+Constraints: Only one player name, LUCA PERNICE. No additional invented players or shirt numbers. All Spanish accents accurate. Strong readability at mobile feed size. The actual match time is 19:40 HS. Professionally finished sports poster, no watermarks. Solid opaque background.

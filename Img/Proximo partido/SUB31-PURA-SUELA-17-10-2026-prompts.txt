@@ -1,0 +1,29 @@
+Herramienta utilizada: generación de imágenes integrada.
+
+Versión feed 3:4:
+Use case: ads-marketing.
+Create a finished football next-match poster for SUB 31. Output exactly 3:4 portrait aspect ratio, e.g. 1536x2048, NOT 2:3 or 9:16.
+INPUT ROLES: Image 1 supplies the ACTUAL TWO CLUB CRESTS: SUB31 left, PURA SUELA right. Image 2 is the compositional, photographic and typography reference. Match its overall visual almost exactly, updating opponent, date and kickoff time.
+DESIGN: Dramatic almost-black nighttime football stadium and worn railing, floodlight upper left, photoreal black SUB31 Puma jersey hanging from the railing in the lower portion, white chest chevron, gold collar/sleeve trim, authentic SUB31 chest crest and Raíces Verdes sponsor from image 2. Elegant large white distressed classical serif headline on TWO LINES "PRÓXIMO" / "PARTIDO". Tiny spaced "SUB 31" above it, handwritten slogan "Juntos por el mismo sueño". Faithful visual identity, highly polished, clean reading hierarchy.
+Under headline, place the two sharp accurate emblems from IMAGE 1, SUB31 on the LEFT and PURA SUELA on the RIGHT, same visual size, "VS" between them. PURA SUELA's correct crest is a black and gold crowned shield with vertical stripes, boot sole and white "PURA SUELA" lettering, NOT the round shoe crest from earlier fixtures, NOT PARALYMPIACOS. Reproduce these actual crests carefully; SUB31 founding year 2026.
+Small legible labels below crests "SUB 31" and "PURA SUELA".
+Match information directly below crests, elegantly spaced white:
+"SÁBADO 17/10"
+"20:00 HS"
+"ESTADIO “LA MADERERA”"
+Can use a clock and location pin like the reference. All three details mandatory and easy to read at mobile size.
+Fit headline, crests, information and recognizable shirt into a 3:4 canvas with safe margins. Preserve reference's mostly black/white palette with restrained authentic golden jersey trim and opponent emblem. No phone UI, scores, added people or watermarks. Do not show PARALYMPIACOS or the old time 19:40. This match is Saturday October 17, 2026 at 20:00 at La Maderera.
+The only visible text outside authentic jersey sponsors/crests is "SUB 31", "Juntos por el mismo sueño", "PRÓXIMO PARTIDO", "VS", "PURA SUELA", "SÁBADO 17/10", "20:00 HS", "ESTADIO “LA MADERERA”".
+HARD FORMAT: full-bleed 3 units wide, 4 units tall, exact 3:4 ratio.
+
+Versión historia 9:16:
+Adapt the supplied finished SUB31 vs PURA SUELA match poster into a matching Instagram STORY design.
+HARD OUTPUT FORMAT: exact 9:16 portrait canvas, preferably 1152x2048 or 1080x1920. The input is 3:4; output must be taller and narrower in proportion, exactly NINE units wide by SIXTEEN tall, NOT 3:4 or 2:3. Recompose and extend the photographic stadium/jersey naturally to fit; no blank borders or letterboxing.
+Preserve the same polished composition and visual identity: black floodlit nighttime stadium and railing, white distressed elegant two-line serif headline "PRÓXIMO PARTIDO", top "SUB 31", handwritten slogan "Juntos por el mismo sueño", the EXACT same sharp SUB31 crest on left and crowned black/white/gold PURA SUELA shield on right with VS centered, clear team labels, hanging authentic black SUB31 Puma jersey with white chevron, golden collar/sleeve trim, SUB31 crest and authentic colorful Raíces Verdes sponsor.
+Required match details verbatim and readable:
+"SÁBADO 17/10"
+"20:00 HS"
+"ESTADIO “LA MADERERA”"
+Arrange date/time together on one centered line and stadium on its own centered line if needed for narrower story width. No truncation. All important text, crests and match details within the middle 80% of the canvas height, leaving about 8–10% breathing space above and below for story interface overlays. The jersey can extend through the lower safe area.
+Maintain consistency with input: same lettering, palette, shirt, precise club emblems, slogan and date. Do not change match to any other opponent; no PARALYMPIACOS, no 19:40. Do not add scores, players, league round text, phone UI or watermarks.
+Final artwork must be EXACTLY 9:16 portrait, full bleed photographic poster.

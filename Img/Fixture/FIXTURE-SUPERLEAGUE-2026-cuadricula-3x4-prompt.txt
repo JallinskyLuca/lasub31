@@ -1,0 +1,24 @@
+Herramienta utilizada: generación de imágenes integrada.
+
+Use case: ads-marketing.
+Create a finished football fixture poster for LA SUB 31, visually INSPIRED BY IMAGE 1's orderly grid of paired team crests. Adapt every factual detail to LA SUB 31's SUPERLEAGUE second-half 2026 fixture from IMAGE 2. Image 3 is the sharp SUB 31 crest/identity reference.
+Exact portrait canvas aspect ratio 3:4, preferably 1536 x 2048 or 1152 x 1536. Full bleed finished artwork only, no screenshot UI.
+STYLE: Exclusively black, white and grayscale. Dark tactile football poster background, wide slightly lighter central vertical band, very faint oversized SUB31 shield and jersey in the background, like the subdued badge and shirt silhouette of IMAGE 1. Strong polished italic white sans-serif headline "FIXTURE CONFIRMADO". Compact white subheading "SUPERLEAGUE · 2026", below it "SEGUNDA MITAD DEL AÑO". Small faithful SUB31 shield upper right or centered above title, founding year inside crest is 2026. No gold, no red/blue, no other colors.
+MAIN COMPOSITION: Spacious orderly GRID OF MATCHUPS, echoing Image 1, with crests as the focal point of each cell. Use THREE COLUMNS and FOUR ROWS for legibility of all names: row 1 dates 01/02/03; row 2 dates 04/05/06; row 3 dates 07/08/09; row 4 dates 10/11 with these final two cells centered as a pair. Exactly eleven cells total. NO long vertical table and no boxy cards or wooden frame.
+In each cell, small "FECHA XX" label above, left team crest then tiny "VS" then right team crest, legible team names beneath their respective crests. Faithfully reproduce grayscale versions of the opponent emblems from IMAGE 2 and SUB31 monogram from IMAGE 3. Equal sizes, clear alignment, enough space between cells. The SUB31 crest appears in all eleven matches.
+Exact LEFT team versus RIGHT team per cell (preserve these orders):
+FECHA 01: TUXON FC vs LA SUB 31
+FECHA 02: PARALYMPIACOS FC vs LA SUB 31
+FECHA 03: LA SUB 31 vs PURA SUELA
+FECHA 04: RITMO FC vs LA SUB 31
+FECHA 05: MOLDAVITA vs LA SUB 31
+FECHA 06: REALCOHOLICOS vs LA SUB 31
+FECHA 07: LA SUB 31 vs OTTO FC
+FECHA 08: VALDOCCO FC vs LA SUB 31
+FECHA 09: LA SUB 31 vs LA ANLLONETA
+FECHA 10: LA SUB 31 vs EL MALEANTEO
+FECHA 11: LA SUB 31 vs LA SELECCION
+All eleven cells, exactly once, no invented dates or additional matches. Names may wrap on two lines under crests to retain readability. Opponent spellings exact: REALCOHOLICOS, PARALYMPIACOS, VALDOCCO, ANLLONETA, MALEANTEO.
+NO SCORES: FECHA 01 is identical in styling to the other dates, just the opposing crests and names. Do not include 1-3 or any final result.
+BOTTOM: compact subtle "LA SUB 31" centered with fine flanking lines. Do not copy Tigre branding, @JuntoATigre, Zona B, Torneo Apertura, league logo, or the text about reversing home/away games from Image 1. Replace source information with this specification only.
+Clear mobile readability, premium club graphic, confident monochrome contrast and balanced poster. HARD CONSTRAINT: 3:4 portrait aspect ratio.

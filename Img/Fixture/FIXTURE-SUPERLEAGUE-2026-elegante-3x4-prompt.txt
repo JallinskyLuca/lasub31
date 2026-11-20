@@ -1,0 +1,22 @@
+Herramienta utilizada: generación de imágenes integrada.
+
+Edit the supplied finished LA SUB 31 fixture poster with ONLY these two visual changes:
+1. Replace the entire main headline "FIXTURE CONFIRMADO" with exactly "FIXTURE", centered in the same header region. Use an elegant refined high-contrast classical serif font, thin sophisticated hairlines and strong stems, editorial luxury typography similar to Didot or Bodoni. Large graceful white uppercase text, clean smooth letters, no italic condensed sports block font, no distressed letter texture. There must be NO word CONFIRMADO anywhere.
+2. Blur ONLY the photographic/background layer: the jersey, railings, distant floodlights and textures become visibly softly out of focus with tasteful photographic depth of field. Keep dark monochrome atmosphere and central tonal band. All foreground content—header crest, headline, subheadings, grid rules, dates, team crests and names—must remain perfectly sharp and readable.
+
+Preserve everything else in the supplied artwork exactly: black/white/grayscale palette, exact 3:4 portrait aspect ratio (1086x1448 or another exact 3:4 size), three columns across first three rows, last two dates centered in row four, all eleven dates, all team emblems, their positions and ordering, no scores. Top SUB31 crest founding year 2026. Preserve subheadings "SUPERLEAGUE · 2026" and "SEGUNDA MITAD DEL AÑO", and bottom "LA SUB 31".
+
+Fixture text/order invariants:
+FECHA 01: TUXON FC vs LA SUB 31
+FECHA 02: PARALYMPIACOS FC vs LA SUB 31
+FECHA 03: LA SUB 31 vs PURA SUELA
+FECHA 04: RITMO FC vs LA SUB 31
+FECHA 05: MOLDAVITA vs LA SUB 31
+FECHA 06: REALCOHOLICOS vs LA SUB 31
+FECHA 07: LA SUB 31 vs OTTO FC
+FECHA 08: VALDOCCO FC vs LA SUB 31
+FECHA 09: LA SUB 31 vs LA ANLLONETA
+FECHA 10: LA SUB 31 vs EL MALEANTEO
+FECHA 11: LA SUB 31 vs LA SELECCION
+
+No added elements, watermarks or red markup. The final main headline consists of the single word FIXTURE.

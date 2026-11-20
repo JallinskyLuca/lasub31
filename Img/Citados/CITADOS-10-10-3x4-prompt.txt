@@ -1,0 +1,48 @@
+Herramienta utilizada: generación de imágenes integrada.
+
+Use case: ads-marketing.
+Task: Create a revised finished SUB 31 football squad Instagram feed poster VERY CLOSE to reference image 1 in mood, typography, composition and restrained elegance, but as a full-bleed portrait artwork with EXACT 3:4 aspect ratio, preferably 1536 x 2048 pixels. Image 1 is a screenshot: remove the entire phone status bar, rounded screenshot edges and all outer empty phone margins. Deliver only the finished artwork.
+Image 1 is the primary composition and style reference. Image 2 supplies the authentic SUB 31 jersey and the actual opposing team crest, PARALYMPIACOS. Match is against PARALYMPIACOS, not the different opponent pictured in image 1.
+Visuals: Almost black night football stadium, subtle cool dark tones, one floodlight at upper left, weathered railing, the same SUB 31 black shirt with white chest chevron, crest and sponsor hanging across the lower background, very dark beneath text. Elegant ivory/cream regular-weight classical serif typography like reference 1. NO distressed oversized sports block lettering. Keep the quiet cinematic look very similar to reference 1.
+Layout:
+Top small widely tracked "SUB 31", handwritten "Juntos por el mismo sueño", large elegant centered ivory serif "CITACIÓN".
+Small SUB 31 and PARALYMPIACOS crests with "VS" centered underneath title, copied faithfully from image 2.
+Main focal area: ONE SINGLE VERTICAL COLUMN centered, ten names, one full name per line, consistent elegant ivory serif type, all ten clearly readable, even line spacing, generous side margins. Names superimposed on the dark jersey/background like image 1. Fit all ten without truncation. Use this exact list and sequence:
+LUCA PERNICE
+LUCAS DATA
+MARTIN FAIURA
+NACHO NAVARRO
+TIZI SEDIARI
+SANTINO NAVARRO
+THEO NAVARRO
+TOBIAS NICOLAU
+LUCA JALLINSKY
+FRANCO JALLINSKY
+Do not include ROMAN VALERO or any name outside these ten. Spell SEDIARI S-E-D-I-A-R-I, JALLINSKY J-A-L-L-I-N-S-K-Y, FAIURA F-A-I-U-R-A. Exactly ten entries, no duplicates, no numbers, no second column.
+At the bottom below the full list, compact easily readable match details:
+"SUB 31 VS PARALYMPIACOS"
+"SÁBADO 10/10 · 19:40 HS"
+"ESTADIO LA MADERERA"
+"SUPERLEAGUE · FECHA 2"
+Very small SUB 31 signature with thin flanking ivory rules can sit at the lowest edge if space permits.
+Preserve the photographic stadium, railing, shirt and moody feel of reference 1 while adapting all layout to exact 3:4. Legible mobile typography, safe margins, opaque background, no watermark, no phone UI. Match information in this prompt overrides dates/time/opponent/text in the visual references.
+
+Corrección de proporción:
+Edit the supplied finished poster. The only required change is its canvas and composition aspect ratio: OUTPUT MUST BE EXACTLY 3:4 PORTRAIT, WIDTH 1536 HEIGHT 2048 (or width 1152 height 1536). The input is mistakenly 1:2 and must be recomposed to a SHORTER, WIDER 3:4 rectangle. DO NOT preserve input aspect ratio. Compress vertical blank spaces, reduce headline size slightly and expand scene horizontally; never crop out any names or footer. Arrange the elements inside the new 3:4 canvas, visually very close to the supplied poster. Maintain ivory classical serif typography, dark stadium, hanging shirt, crests and all ten names as one centered vertical column, ONE FULL NAME PER LINE. Preserve these exact ten entries, top to bottom:
+LUCA PERNICE
+LUCAS DATA
+MARTIN FAIURA
+NACHO NAVARRO
+TIZI SEDIARI
+SANTINO NAVARRO
+THEO NAVARRO
+TOBIAS NICOLAU
+LUCA JALLINSKY
+FRANCO JALLINSKY
+Keep small SUB 31 and handwritten slogan near top, title CITACIÓN below, small crests with VS beneath title, then the single-column list over the shirt. Remove the duplicate time/stadium row between crests and list to make more room; match details appear only in footer.
+Footer exactly:
+SUB 31 VS PARALYMPIACOS
+SÁBADO 10/10 · 19:40 HS
+ESTADIO LA MADERERA
+SUPERLEAGUE · FECHA 2
+All ten names and all footer lines fully visible with safe margins. Names are the principal content. Keep quiet ivory serif style, no sports block lettering, no phone UI, no watermarks. The aspect ratio is a hard constraint: 3 units wide and 4 units tall, NOT 1:2, NOT 2:3, NOT 4:5.

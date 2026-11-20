@@ -1,0 +1,27 @@
+Edited with built-in image_gen.
+
+GEB PALETTE CHANGE
+Use case: precise-object-edit
+Asset type: transparent PNG existing sponsor logo, palette-only edit for a white football shirt.
+The attached PNG is the exact GEB SOLUCIONES DIGITALES logo to edit.
+PRIMARY REQUIREMENT: Change ONLY the colors of the existing artwork. DO NOT REDESIGN. Keep the exact icon geometry, all contours, corner radii, cuts, gaps, proportions, letter shapes, font, stroke thickness, spacing, layout, scale and original aspect ratio. This is a recoloring of the supplied logo, not creation of a new logo.
+Color mapping: the existing blue LEFT component of the angular hexagonal monogram becomes flat muted antique gold (#A47B32). The existing turquoise RIGHT component becomes solid graphite black (#171717). The existing white TOP and INNER geometric segments of the icon become the SAME flat antique gold (#A47B32), preserving their separation and exact individual geometry. The existing white "GEB" wordmark becomes opaque graphite black (#171717). The white subtitle "SOLUCIONES DIGITALES" becomes the same opaque graphite black. All original transparent gaps must stay transparent.
+Preserve the exact futuristic bold GEB wordmark from the source including the characteristic openings and inner cutouts. Exact text: "GEB" and "SOLUCIONES DIGITALES". No extra text.
+Background: preserve genuine transparent alpha everywhere outside and between the original artwork. All black/gold intended foreground strokes must remain fully opaque, clean antialiased edges. No baked checkerboard.
+Finish: flat two-color print-ready graphic, smooth crisp edges, no bevel, texture, metallic shading, glow or shadow.
+Output only this existing logo in the new palette, not a shirt mockup. Retain the original horizontal lockup. Highest native resolution available. Do not add ornamentation or change shape.
+Output: GEB-negro-dorado.png, 1774 x 887 pixels, transparent PNG.
+
+RAICES VERDES MINIMALIST VERSION
+Use case: precise-object-edit
+Asset type: standalone minimalist Raíces Verdes Mates Exclusivos sponsor logo for a white football kit, transparent PNG.
+Input: the attached ornate black/gold Raices Verdes logo is the edit target for simplification.
+Primary request: make this logo substantially MORE MINIMALIST. Keep the brand words, leaf and mate idea, and black/antique-gold palette, but radically reduce visual complexity.
+Final design: a single SMALL simplified mate-and-leaf icon above a centered clean typographic wordmark. The icon is an elegant gold flat silhouette of a mate cup, a single simple bombilla, and ONE understated gold leaf; clean solid shapes with open negative space, no engraving, no foliage cluster. Large bold contemporary serif typography with simple robust strokes, RAÍCES on first line and VERDES on second, equal optical width, upright and horizontally level. Solid graphite black letters, NO decorative outlines, NO inline strokes, NO arched letters. Below the main brand, one smaller clear geometric sans-serif line reading "MATES EXCLUSIVOS", black, modest tracking, enough weight to remain legible in print.
+Palette only rich graphite black (#171717) and flat muted antique gold (#A47B32). Main brand and subtitle black; icon gold.
+Remove COMPLETELY all ornamental frames, scrollwork, flourishes, additional sprigs, swirls, borders, engraved leaf veins, illustration textures, multiple color layers and 3D shading. This should read as a modern restrained premium sponsor mark, substantially simpler than the reference, highly readable at reduced size.
+Exact text: "RAÍCES", "VERDES", "MATES EXCLUSIVOS", each appearing once. Acute accent on Í. No extra slogan.
+Composition: compact centered lockup, balanced whitespace and modest transparent safety margins, square canvas, highest available native resolution ideally 2048 x 2048.
+Background: true fully transparent alpha background outside and between all shapes. Opaque black lettering and gold symbol. No backdrop, no white rectangle, no black rectangle, no baked checkerboard.
+Avoid: football kit mockup, club logos, ornamental border, filigree, roots illustration, gradients, thin fragile letter strokes, outline typography, cartoon cup, gold lettering, textures, shadows, cropping, illegible subtitle.
+Output: Raices-Verdes-minimalista.png, 1254 x 1254 pixels, transparent PNG.

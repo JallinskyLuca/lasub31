@@ -1,0 +1,46 @@
+Herramienta utilizada: generación de imágenes integrada.
+
+Use case: ads-marketing.
+Create a striking professionally designed football FIXTURE poster for LA SUB 31, for the second half of 2026 SUPERLEAGUE.
+HARD OUTPUT FORMAT: exact 3:4 portrait canvas, width 1536 height 2048 or width 1152 height 1536. Do not copy screenshot aspect ratio. Deliver full-bleed artwork only, no Instagram UI, no phone bars, no borders outside artwork.
+INPUT ROLE: Reference screenshot is the factual source for the 11 opponents and the LA SUB31 crest. Completely redesign its graphic composition, retaining the club identity and schedule. Do not reuse its wooden frame, gold palette or first-round score.
+STYLE: Exclusively BLACK AND WHITE with grayscale, no gold or other colors. Bold impactful contemporary sports editorial design, exceptional contrast, huge white "FIXTURE" headline with "2026" as a strong typographic element, controlled paper grain, subtle stadium floodlight atmosphere and an oversize dark embossed SUB 31 crest in the background. Confident clear hierarchy and precise aligned typography. Visually exciting but clean, great readability on a phone. Club crest small and sharp near the header, white on black and faithful to reference.
+TOP TEXT exactly:
+"LA SUB 31"
+"FIXTURE 2026"
+"SUPERLEAGUE"
+"SEGUNDA MITAD DEL AÑO"
+MAIN CONTENT: exactly 11 evenly spaced fixture rows in ONE centered wide column below the header, from FECHA 01 at top to FECHA 11 at bottom. Each row uses a prominent white date number, small "FECHA" label, and a bold uppercase opponent name. Since club identity is in the header, list ONLY opponent names for maximum legibility; no repeated club name or VS necessary. A subtle white rule divides each row. Every row treated identically, including FECHA 01. Small grayscale opponent crests from the reference can sit to the right of each row if faithful and unobtrusive; typography remains principal. Do not invent opponent names.
+Exact schedule:
+FECHA 01 — TUXON FC
+FECHA 02 — PARALYMPIACOS FC
+FECHA 03 — PURA SUELA
+FECHA 04 — RITMO FC
+FECHA 05 — MOLDAVITA
+FECHA 06 — REALCOHOLICOS
+FECHA 07 — OTTO FC
+FECHA 08 — VALDOCCO FC
+FECHA 09 — LA ANLLONETA
+FECHA 10 — EL MALEANTEO
+FECHA 11 — LA SELECCION
+Spell accurately, especially REALCOHOLICOS R-E-A-L-C-O-H-O-L-I-C-O-S, ANLLONETA A-N-L-L-O-N-E-T-A, MALEANTEO M-A-L-E-A-N-T-E-O, VALDOCCO V-A-L-D-O-C-C-O.
+NO FINAL RESULTS ANYWHERE: no "1 - 3", no scores, no completed-round indicators. No invented dates, kickoff times or venues.
+Small closing club signature "LA SUB 31" at foot if it fits.
+All eleven rows equally prominent, readable safe margins and spacing. Final exact 3:4 ratio is essential. Monochrome sports poster that feels memorable, proud and commanding.
+
+Corrección final:
+Precise localized edit of the supplied finished fixture poster. Change ONLY the tiny founding-year text inside the TOP CENTER LA SUB31 shield, just below the large S31 monogram and above the small football. It currently incorrectly reads "2020". Replace it with exactly "2026", using the same tiny white type.
+Preserve EVERYTHING ELSE unchanged: exact 3:4 portrait aspect ratio, monochrome stadium design, enormous FIXTURE 2026 headline, all eleven fixture rows and their typography, correct team names in order, all crests, footer and background. Do not regenerate or rearrange the poster. No scores.
+The rows remain:
+01 TUXON FC
+02 PARALYMPIACOS FC
+03 PURA SUELA
+04 RITMO FC
+05 MOLDAVITA
+06 REALCOHOLICOS
+07 OTTO FC
+08 VALDOCCO FC
+09 LA ANLLONETA
+10 EL MALEANTEO
+11 LA SELECCION
+Only top shield's tiny year must change to 2026.

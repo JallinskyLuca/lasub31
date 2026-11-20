@@ -1,0 +1,11 @@
+Use case: precise-object-edit
+Asset type: Professional high-resolution product photograph for cinematic video.
+Input image: The attached Conjunto-blanco.jpeg is the edit target and exact product design reference.
+Primary request: Create ONLY asset 1: a single full front view of the white football jersey shown at upper left in the source, alone, centered and fully visible. Remove the back-view jersey, shorts, all three detail inset panels, and background branding. Recompose the front jersey as the sole product.
+Scene/backdrop: Preserve the original gray textured concrete/stone background appearance, its neutral tone, texture and subtle directional illumination. Extend/reconstruct this same background naturally around the isolated shirt, no different backdrop.
+Composition: portrait 4:5, straight overhead flat-lay, centered, upright, entire collar, both sleeve tips and hem visible, generous clean margins on all sides for video camera movement. Request 3072 x 3840 pixels if available, otherwise highest available native resolution.
+Style: premium photorealistic sportswear studio product photography, precise sharp fabric knit and mesh, detailed stitching, natural soft contact shadows, controlled soft side light, restrained cinematic depth, clean accurate white with no blown highlights.
+Product invariants: faithfully preserve the exact original front design, cut, proportions and colors. White polo collar with thin dark piping and black inner collar tape; gray floral linework on raglan sleeves and side panels; white microperforated front; thin gray vertical accents; black cuffs with gold diamond pattern; gold OLIVER emblem and verbatim "OLIVER" on viewer's left chest; original circular SUB 31 monogram crest and gold star on viewer's right chest; exact black "10" with thin white and gold border centered on front; sleeve SUB 31 details and small original black/gold tag near lower right hem. Do not redesign, substitute, invent or move logos, patterns or numerals.
+Avoid: back view, shorts, inset detail images, collage, mannequin, person, hanger, props, additional lettering, added watermarks, stylized illustration, glossy synthetic plastic fabric, cropped garment.
+
+Tool: built-in image_gen. Source: Conjunto-blanco.jpeg.

@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="es-AR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow, noarchive">
+  <title>Administración | La Sub 31</title>
+  <link rel="icon" type="image/png" href="../assets/escudo.png">
+  <link rel="stylesheet" href="admin.css">
+  <script src="admin.js" defer></script>
+</head>
+<body>
+  <header class="container"><a class="brand" href="../"><img src="../assets/escudo.png" alt="" width="40" height="46">La Sub 31</a><a href="../" target="_blank" rel="noopener noreferrer">Ver la web</a></header>
+  <main class="container">
+    <h1>Administración del club</h1>
+    <p id="feedback" role="status" aria-live="polite">Comprobando acceso…</p>
+    <section id="login" hidden>
+      <form id="login-form" class="panel login-panel">
+        <h2>Ingresá al panel</h2>
+        <input type="text" name="username" value="administrador" autocomplete="username" hidden>
+        <label>Contraseña<input type="password" name="password" autocomplete="current-password" minlength="16" maxlength="256" required></label>
+        <button type="submit">Ingresar</button>
+      </form>
+    </section>
+    <div id="editor" hidden>
+      <div class="toolbar"><p id="updated"></p><button type="button" class="secondary" id="logout">Cerrar sesión</button></div>
+      <section class="panel" aria-labelledby="fixture-heading">
+        <h2 id="fixture-heading">Fixture y resultados</h2>
+        <label>Elegí el partido<select id="match-picker"></select></label>
+        <form id="match-form">
+          <div class="fields">
+            <label class="wide">Rival<input name="rival" maxlength="100" required></label>
+            <label>Estado<select name="estado"><option value="a-confirmar">A confirmar</option><option value="programado">Programado</option><option value="jugado">Jugado</option></select></label>
+            <label>Orden de los equipos<select name="sub31Primero"><option value="true">La Sub 31 primero</option><option value="false">El rival primero</option></select></label>
+            <label>Día<input name="fecha" type="date" min="2000-01-01" max="2099-12-31"></label>
+            <label>Horario<input name="hora" type="time"></label>
+            <label class="wide">Cancha<input name="cancha" maxlength="180" required></label>
+          </div>
+          <fieldset id="scores"><legend>Resultado de La Sub 31</legend><div class="fields">
+            <label>Goles de La Sub 31<input name="golesSub31" type="number" min="0" max="99" step="1"></label>
+            <label>Goles del rival<input name="golesRival" type="number" min="0" max="99" step="1"></label>
+            <label class="wide">Goleadores<textarea name="goleadores" maxlength="700" rows="3" placeholder="Ejemplo: Theo Navarro (2) y Luca Pernice"></textarea></label>
+          </div></fieldset>
+        </form>
+      </section>
+      <section class="panel" aria-labelledby="table-heading">
+        <h2 id="table-heading">Tabla de posiciones</h2>
+        <form id="table-form"><div class="fields">
+          <label class="wide">Nueva foto<input id="image-file" type="file" accept="image/jpeg,image/png,image/webp"><span class="hint">JPG, PNG o WebP. Máximo 2 MB. Elegí una foto solo si querés reemplazar la actual.</span></label>
+          <label class="wide">Título<input name="titulo" maxlength="100" required></label>
+          <label class="wide">Resumen<textarea name="resumen" maxlength="500" rows="3"></textarea></label>
+          <label>Puesto<input name="puesto" maxlength="12" placeholder="1.º"></label>
+          <label>Detalle<input name="detalle" maxlength="80" placeholder="21 puntos · 7 PJ"></label>
+        </div></form>
+        <figure><img id="table-preview" alt="Vista previa de la tabla de posiciones"><figcaption>Revisá la foto y el resumen antes de guardar.</figcaption></figure>
+        <button type="button" class="secondary" id="discard-image" hidden>Descartar foto elegida</button>
+      </section>
+      <div class="save-bar"><span id="dirty-state">Sin cambios pendientes.</span><button type="button" id="save">Guardar y publicar cambios</button></div>
+      <section class="panel" aria-labelledby="backup-heading">
+        <h2 id="backup-heading">Copias anteriores</h2><p class="hint">Se conservan las últimas diez versiones del fixture y la foto.</p>
+        <label>Versión para recuperar<select id="history"></select></label>
+        <div class="actions"><button type="button" class="secondary" id="restore">Recuperar versión</button><button type="button" class="secondary" id="export">Descargar copia del fixture</button></div>
+      </section>
+    </div>
+    <noscript>Activá JavaScript para usar el panel.</noscript>
+  </main>
+</body>
+</html>
